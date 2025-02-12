@@ -34,7 +34,7 @@ The dataset contains:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 ### **1. Run the Jupyter Notebook for Analysis**
 ```bash
 jupyter notebook Binance_Trading_Accounts_Analysis.ipynb
